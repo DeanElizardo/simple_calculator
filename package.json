@@ -1,0 +1,27 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "A simple CLI 4-function calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Del-on-git/simple_calculator.git"
+  },
+  "keywords": [
+    "cli",
+    "calculator",
+    "arithmetic"
+  ],
+  "author": "Dean Elizardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Del-on-git/simple_calculator/issues"
+  },
+  "homepage": "https://github.com/Del-on-git/simple_calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
